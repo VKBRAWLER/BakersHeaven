@@ -17,9 +17,9 @@ export default function Footer() {
             <div>
                 <h2 className="text-lg sm-450:text-2xl font-bold text-right md:text-left">Contact Us</h2>
                 <ul className="mx-5 text-right md:text-left">
-                    <li>+91 9456790295</li>
-                    <li>+91 9412129175</li>
-                    <li>varunkh12345@gmail.com</li>
+                    <li>+91 9988776655</li>
+                    <li>+91 9988776655</li>
+                    <li>example123@gmail.com</li>
                 </ul>
             </div>
             <div>
@@ -31,7 +31,7 @@ export default function Footer() {
                 </ul>
             </div>
         </div>
-        <h6 className="text-center italic absolute bottom-1 right-4 text-sm">@Copywrite-BakersHeaven 2023</h6>
+        <h6 className="text-center italic absolute bottom-1 right-4 text-sm">@Copyright-BakersHeaven 2023</h6>
     </footer>
     </>
   )
